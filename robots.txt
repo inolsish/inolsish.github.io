@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://inolsish.github.io/sitemap.html
+Sitemap: https://inolsish.github.io/app/sitemap.html
+Sitemap: https://inolsish.github.io/assets/sitemap.html
+Sitemap: https://inolsish.github.io/includes/sitemap.html
+Sitemap: https://inolsish.github.io/src/sitemap.html
